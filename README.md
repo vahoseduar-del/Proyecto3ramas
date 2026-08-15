@@ -2,7 +2,7 @@
 
 Una primera versión de un programa sencillo desarrollado en Python para facilitar procesos de venta y organización de productos, pensado como herramienta accesible y práctica para personas con discapacidad que desean vender de manera más autónoma.
 
-## Descripción
+## Descripción PCD
 
 Este proyecto busca crear una solución básica para:
 
