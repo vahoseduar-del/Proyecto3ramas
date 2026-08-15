@@ -4,7 +4,7 @@ Una primera versión de un programa sencillo desarrollado en Python para facilit
 
 ## Descripción PCD
 
-Este proyecto busca crear una solución básica para:
+Este proyecto busca crear una solución básica para PCD:
 
 - registrar productos
 - calcular precios y totales
